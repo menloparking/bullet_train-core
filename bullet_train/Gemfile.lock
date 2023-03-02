@@ -22,7 +22,6 @@ PATH
       commonmarker
       devise
       devise-pwned_password
-      extended_email_reply_parser
       fastimage
       figaro
       hiredis
@@ -170,11 +169,6 @@ GEM
       unf (>= 0.0.5, < 1.0.0)
     email_reply_parser (0.5.10)
     erubi (1.10.0)
-    extended_email_reply_parser (0.5.1)
-      activesupport
-      charlock_holmes
-      email_reply_parser (~> 0.5.9)
-      mail
     fastimage (2.2.6)
     figaro (1.2.0)
       thor (>= 0.14.0, < 2)

@@ -30,7 +30,7 @@ require "premailer/rails"
 require "figaro"
 require "valid_email"
 require "commonmarker"
-require "extended_email_reply_parser"
+# require "extended_email_reply_parser"
 require "pagy"
 require "devise/pwned_password"
 
